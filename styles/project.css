@@ -38,8 +38,8 @@ header h2{
 }
 header img{
     float:left;
-    padding-bottom: 1em;
-    margin-left:30px;
+    margin-bottom: 1em;
+    margin-left: 2em;
 }
 .shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
