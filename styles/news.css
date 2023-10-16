@@ -1,0 +1,20 @@
+header{
+    border-bottom: 2px solid blue;
+}
+article{
+    clear: both;
+    width: 70%;
+    float:left;
+    column-count: 3;
+    column-rule: 2px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+article h1{
+    column-span: all;
+}
+article p::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+}
