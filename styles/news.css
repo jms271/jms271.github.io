@@ -1,3 +1,6 @@
+html{
+    background-image:linear-gradient(to left, blue 0%, blue 100%)
+}
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; 
 padding-bottom: 1em;
@@ -30,6 +33,7 @@ article{
     column-rule: 2px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
+    position: fixed;
 }
 article h1{
     color: blue;
