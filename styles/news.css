@@ -31,4 +31,5 @@ aside{
     float: right;
     background-color: lightblue;
     padding: 0.2 em 1em 1em;
+    border: 1px blue;
 }
