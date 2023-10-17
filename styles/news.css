@@ -27,3 +27,9 @@ footer{
     clear:both;
     border-top: 2px solid blue;
 }
+aside{
+    width: 20%;
+    float: right;
+    background-color: blue;
+    padding: 0.2 em 1em 1em;
+}
