@@ -29,6 +29,7 @@ article{
     column-count: 3;
     column-rule: 2px dotted blue;
     column-gap: 2em;
+    margin-left: 1em;
 }
 article h1{
     color: blue;
