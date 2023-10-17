@@ -1,9 +1,13 @@
 header{
     border-bottom: 2px solid blue;
 }
+body{
+    width: 95%;
+    margin: 15px auto;
+}
 article{
     clear: both;
-    width: 70%;
+    width: 75%;
     float:left;
     column-count: 3;
     column-rule: 2px dotted blue;
@@ -24,6 +28,7 @@ article img{
     margin-bottom:1em;
 }
 footer{
+    border-top: 2px blue;
     clear:both;
 }
 aside{
@@ -32,4 +37,10 @@ aside{
     background-color: lightblue;
     padding: 0.2 em 1em 1em;
     border: 1px blue;
+}
+aside ol{
+    list-style-type: upper-roman;
+}
+aside ul{
+    list-style-type: square;
 }
