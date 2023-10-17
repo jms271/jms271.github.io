@@ -15,7 +15,6 @@ padding-bottom: 1em;
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 main{
-    clear: left;
     border-top: 2px solid blue;
 }
 body{
