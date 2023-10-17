@@ -36,7 +36,7 @@ aside{
     float: right;
     background-color: lightblue;
     padding: 0.2em 1em 1em;
-    border: 2px blue;
+    border: 2px solid blue;
 }
 aside ol{
     list-style-type: upper-roman;
