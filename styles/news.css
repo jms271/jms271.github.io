@@ -32,7 +32,11 @@ article{
     margin-left: 2em;
 }
 article h1{
+    color: blue;
     column-span: all;
+}
+article h2{
+    color: blue;
 }
 article p::first-letter{
     font-size: 3em;
