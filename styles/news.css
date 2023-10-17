@@ -46,7 +46,6 @@ article p::first-letter{
 article img{
     float: left;
     margin-right: 1em;
-    margin-bottom:1em;
 }
 footer{
     border-top: 2px solid blue;
