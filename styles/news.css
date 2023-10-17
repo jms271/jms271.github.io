@@ -28,7 +28,7 @@ article img{
     margin-bottom:1em;
 }
 footer{
-    border-top: 2px blue;
+    border-top: 2px solid blue;
     clear:both;
 }
 aside{
