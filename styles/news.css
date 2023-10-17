@@ -23,7 +23,6 @@ body{
     margin: 15px auto;
 }
 article{
-    clear: both;
     width: 75%;
     float:left;
     column-count: 3;
@@ -54,7 +53,7 @@ footer{
 aside{
     margin-top: 2em;
     width: 20%;
-    float: left;
+    float: right;
     background-color: lightblue;
     padding: 0.2em 1em 1em;
     border: 2px solid blue;
