@@ -61,11 +61,12 @@ footer{
 aside{
     margin-top: 2em;
     width: 20%;
-    float: left;
     background-color: lightblue;
     padding: 0.2em 0em 1em;
     border: 2px solid blue;
     position: fixed;
+    bottom: 35%;
+    right: 0;
 }
 aside ol{
     list-style-type: upper-roman;
