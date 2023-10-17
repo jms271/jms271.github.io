@@ -29,7 +29,7 @@ article{
     column-count: 3;
     column-rule: 2px dotted blue;
     column-gap: 2em;
-    margin-left: 1em;
+    margin-left: 2em;
 }
 article h1{
     color: blue;
@@ -56,7 +56,7 @@ aside{
     width: 20%;
     float: right;
     background-color: lightblue;
-    padding: 0.2em 1em 1em;
+    padding: 0.2em 0em 1em;
     border: 2px solid blue;
 }
 aside ol{
