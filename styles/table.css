@@ -53,4 +53,5 @@ table.third th{
 }
 table.third td.bottom{
     border-bottom: 2px solid orangered;
+    margin-bottom: 1em;
 }
