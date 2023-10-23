@@ -50,6 +50,6 @@ table.third th{
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
 }
-td.bottom{
+table.third td.bottom{
     border-bottom: 2px solid orangered;
 }
