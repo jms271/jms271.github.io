@@ -47,16 +47,17 @@
     </fieldset>
     <fieldset>
         <legend>Membership Information</legend>
-        <select id="membership_type">
+        <label for="membership_type"> Membership Type</label>
+        <select id="membership_type" required="on">
                 <option value="Junior"> Junior </option>
                 <option value="Regular"> Regular</option>
                 <option value="Charter"> Charter</option>
         </select>
         <br>
-        Date:&nbsp;&nbsp;
+        <label for="date">Starting Date</label>
         <input type="date" id="date">
         <br>
-        <label for="tickets"></label>
+        <label for="tickets"> Tickets for Guest</label>
         <input type="number" id="tickets" min="1" max="4" value="2">
 
         
